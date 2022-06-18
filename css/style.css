@@ -12,7 +12,8 @@ body {
     border: 5px double rgba(255, 255, 255, 0.18);
 }
 
-#header .logo {
+#header .logo,
+#footer .logo  {
     text-transform: uppercase;
     border: 5px double rgba(255, 255, 255, 0.38);
     font-size: 24px;

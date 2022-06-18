@@ -205,18 +205,8 @@ postCard.addEventListener("click", (e) => {
 
 })
 
-// function deletePost() {
-//     let id = deletebtn.target.id
-//     console.log(id)
-//     fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
-//         method: 'DELETE',
-//     })
-//         .then((response) => response.json())
-//         .then((data) => {
-//             postBox = postBox.filter(post => post.id !== id)
-//             renderUI(postBox)  
-//         })
 
-// }
+
+
 
 
